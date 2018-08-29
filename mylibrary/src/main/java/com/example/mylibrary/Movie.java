@@ -11,6 +11,7 @@ public class Movie {
     public static final int NEW_RELEASE = 1;    //新片
 //    public static final int test = 11;      //测试第一次提交推送未merge develop时做修改修改，可忽略
 //    public int i =1;        //测试，忽略。
+//    public int j= 2;    //测试，忽略
     
 
     private String mTitle;      //片名
